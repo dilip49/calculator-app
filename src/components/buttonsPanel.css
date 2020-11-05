@@ -1,0 +1,26 @@
+.btn, .btn-num, .btn-op {
+  font-size: 40px;
+  font-weight: bold;
+  color: white;
+  width: 30px;
+  padding: 15px;
+  margin: 10px;
+  box-sizing: content-box;
+  border-radius: 15px;
+}
+
+.btn-num {
+  background-color: #696969;
+}
+
+.btn-op {
+  background-color: #DAA520;
+}
+
+.btn {
+  background-color: #A9A9A9; 
+}
+
+#equal {
+  padding: 10px 140px;
+}
